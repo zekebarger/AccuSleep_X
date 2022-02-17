@@ -16,12 +16,14 @@ Barger, Z., Frye, C. G., Liu, D., Dan, Y., & Bouchard, K. E. (2019). Robust, aut
 
 Please contact zekebarger (at) gmail (dot) com with any questions or comments about the software.
 
-## Screenshots
-![alt test](https://i.imgur.com/W0alwkx.png)
-Primary interface (AccuSleep_GUI_X)
-
-![alt test](https://i.imgur.com/gJoHjau.png)
-Interface for manual sleep scoring (AccuSleep_viewer_X)
 
 ## Acknowledgements
 We would like to thank Franz Weber for creating an early version of the manual labeling interface.
+
+
+## Screenshots
+Primary interface (AccuSleep_GUI_X)
+![alt test](https://i.imgur.com/W0alwkx.png)
+
+Interface for manual sleep scoring (AccuSleep_viewer_X)
+![alt test](https://i.imgur.com/gJoHjau.png)
