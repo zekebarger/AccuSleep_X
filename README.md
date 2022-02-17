@@ -14,7 +14,7 @@ If you use AccuSleep in your research, please cite our [publication](https://jou
 
 Barger, Z., Frye, C. G., Liu, D., Dan, Y., & Bouchard, K. E. (2019). Robust, automated sleep scoring by a compact neural network with distributional shift correction. *PLOS ONE, 14*(12), 1–18.
 
-Please contact zeke (at) berkeley (dot) edu with any questions or comments about the software.
+Please contact zekebarger (at) gmail (dot) com with any questions or comments about the software.
 
 ## Screenshots
 ![alt test](https://i.imgur.com/W0alwkx.png)
