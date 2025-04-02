@@ -1,6 +1,9 @@
 # AccuSleep
 
 ## Updates
+**04/02/2025** - A [python version](https://github.com/zekebarger/AccuSleePy) of AccuSleep is now available! Please consider switching to
+this version. It offers several improvements over the original and will be more actively maintained.
+
 **06/12/2021** - Initial release of AccuSleep X. 
 
 ## Description
